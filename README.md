@@ -1,4 +1,4 @@
-## Overview
+## 📓 Overview
 
 This project focuses on recognizing handwritten digits using a deep learning model trained on the MNIST dataset. The model is built using TensorFlow and Keras and employs a neural network to classify digits (0-9) with high accuracy. Furthermore, it includes a GUI built with Tkinter to allow users to draw digits and get real-time predictions:
 

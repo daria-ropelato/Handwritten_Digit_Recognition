@@ -145,3 +145,6 @@ window.mainloop()
 - Enhance GUI with better preprocessing.
 - Implement more robust noise filtering.
 - Experiment with Convolutional Neural Networks (CNNs) for better accuracy.
+
+## Demo
+TBD
